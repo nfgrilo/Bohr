@@ -6,7 +6,7 @@
 //
 //
 
-#import <Bohr/Bohr.h>
+//#import <Bohr/Bohr.h>
 
 @interface BOTextTableViewCell (Subclass)
 
