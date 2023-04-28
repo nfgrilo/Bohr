@@ -22,6 +22,7 @@ let package = Package(
             name: "Bohr",
             dependencies: [],
             path: "Bohr",
+            exclude: ["Bohr.h"],
             publicHeadersPath: ".",
             cSettings: [
                 .headerSearchPath("."),
