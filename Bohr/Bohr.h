@@ -32,7 +32,7 @@ FOUNDATION_EXPORT const unsigned char BohrVersionString[];
 #import <BOTextTableViewCell+Subclass.h>
 
 #import <BOSetting+Private.h>
-#import <BOTextTableViewCell+Private.h>
-#import <BOTextTableViewController+Private.h>
+#import <BOTableViewCell+Private.h>
+#import <BOTableViewController+Private.h>
 #import <NSInvocation+Copy.h>
 #import <UILabel+DatePickerCustomization.h>
